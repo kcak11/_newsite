@@ -46,6 +46,7 @@ body {
 }
 
 .logoText {
+    white-space: nowrap;
     padding-left: 80px;
     padding-right: 10px;
     text-shadow: 2px 2px 3px #fff, -2px -2px 2px #fff, -2px 2px 3px #fff, 2px -2px 3px #fff;
